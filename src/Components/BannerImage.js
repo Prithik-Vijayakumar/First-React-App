@@ -4,7 +4,7 @@ import './Master.css';
 function BannerImage () {
     return (
         <div>
-            <img className="banner" src="../Saved Pictures/BgImage.jpg" alt="BannerImage"></img>
+            <img className="banner" src="../Images/BgImage.jpg" alt="BannerImage"></img>
         </div>
     )
 }
